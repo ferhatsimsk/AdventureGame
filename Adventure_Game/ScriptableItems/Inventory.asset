@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1d9d09bbeb18024eb0ab2e3b05d7d5d, type: 3}
+  m_Name: Inventory
+  m_EditorClassIdentifier: 
+  inventorySlots:
+  - isFull: 1
+    itemCount: 1
+    item: {fileID: 11400000, guid: 134b016984dc3e0439d711d8d8e2372f, type: 2}
+  - isFull: 1
+    itemCount: 1
+    item: {fileID: 11400000, guid: 134b016984dc3e0439d711d8d8e2372f, type: 2}
+  - isFull: 1
+    itemCount: 4
+    item: {fileID: 11400000, guid: 99c6196f1d66b3440904d85d77c11e55, type: 2}
+  - isFull: 0
+    itemCount: 0
+    item: {fileID: 0}
+  - isFull: 0
+    itemCount: 0
+    item: {fileID: 0}
+  - isFull: 0
+    itemCount: 0
+    item: {fileID: 0}
+  - isFull: 0
+    itemCount: 0
+    item: {fileID: 0}
+  - isFull: 0
+    itemCount: 0
+    item: {fileID: 0}
+  - isFull: 0
+    itemCount: 0
+    item: {fileID: 0}
+  - isFull: 0
+    itemCount: 0
+    item: {fileID: 0}
+  - isFull: 0
+    itemCount: 0
+    item: {fileID: 0}
+  - isFull: 0
+    itemCount: 0
+    item: {fileID: 0}
+  - isFull: 0
+    itemCount: 0
+    item: {fileID: 0}

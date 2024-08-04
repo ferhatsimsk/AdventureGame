@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 554f5c772fc27bb479e270d8778c5e7b, type: 3}
+  m_Name: Star
+  m_EditorClassIdentifier: 
+  itemName: Star
+  itemDescription: 'You can damage the enemy '
+  canStackable: 0
+  itemIcon: {fileID: 21300000, guid: a6f0d7b29baf8a148a5468bcdbb561ce, type: 3}
+  itemPrefab: {fileID: 5490497951473376667, guid: bab2cba2df158874088294105e968d14,
+    type: 3}
+  health: 2
+  damage: 20
