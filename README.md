@@ -1,6 +1,6 @@
 # AdventureGame
 
-Welcome to the Adventure Game repository! This repository contains the full script files used in the development of our adventure game, built with the Unity game engine and C#. The game offers a captivating adventure experience with detailed environments, engaging gameplay, and immersive storylines.
+Welcome to the Adventure Game repository! This repository contains the full script files used in the development of my adventure game, built with the Unity game engine and C#. The game offers a captivating adventure experience with detailed environments, engaging gameplay, and immersive storylines.
 
 ## Overview
 This repository includes the essential scripts that power the entire game, including:
